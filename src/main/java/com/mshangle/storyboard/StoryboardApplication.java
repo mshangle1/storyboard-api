@@ -1,4 +1,4 @@
-package com.mshangle.storyboard.storyboard;
+package com.mshangle.storyboard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
